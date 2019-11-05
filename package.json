@@ -1,0 +1,25 @@
+{
+  "name": "shift_bot",
+  "version": "1.0.0",
+  "description": "bot for borderlands/shift codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "gobot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strikehaseo/shift_bot.git"
+  },
+  "keywords": [
+    "borderlands",
+    "shiftcodes",
+    "shift",
+    "codes"
+  ],
+  "author": "strikehaseo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strikehaseo/shift_bot/issues"
+  },
+  "homepage": "https://github.com/strikehaseo/shift_bot#readme"
+}
